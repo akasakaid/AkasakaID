@@ -1,8 +1,13 @@
 
-**Hii**
+**Hii, Viewers**
 
  - Es Teh and Air Bening Enjoyers
  - Anime, Manga, Manhwa, Manhua Antuism
- - Genshin Impact Player (My ID : 823580416)
+ - Genshin Impact Player 
 
-![Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=AkasakaID&layout=compact)
+**Want to buy me a glass of iced tea?**
+
+ - [Paypal [ID/EN]](https://paypal.me/akasakaidn)
+ - [Saweria [ID]](https://saweria.co/fowawaz)
+ - [Trakteer.id [ID]](https://trakteer.id/fowawaz)
+ - [Ko-Fi [ID/EN]](https://ko-fi.com/fowawaztruffle)

@@ -1,3 +1,6 @@
+
+<img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="400" height="500">
+
 ### Hi there 👋
 
 <!--

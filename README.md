@@ -1,5 +1,6 @@
 
-<img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="400" height="500">
+
+<img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="400" height="500" align="center">
 
 ### Hi there 👋
 

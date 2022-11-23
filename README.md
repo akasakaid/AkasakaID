@@ -1,10 +1,11 @@
 
 
 <div align="center">
-    <img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="400" height="500">
+    <img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="300" height="400" />
+    </br>
+    <p><i>"In the end, every human is a writer"</i></p>
 </div>
 
-### Hi there 👋
 
 <!--
 **akasakaid/AkasakaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

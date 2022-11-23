@@ -1,6 +1,8 @@
 
 
-<img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="400" height="500" align="center" />
+<div align="center">
+    <img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="400" height="500">
+</div>
 
 ### Hi there 👋
 

@@ -1,9 +1,9 @@
 
 
 <div align="center">
-    <img src="assets/images/EfTpIKmVAAAUrBT.jpg" width="300" height="400" />
+    <img src="assets/images/santaidulungaksih.jpg" width="600" height="400" />
     </br>
-    <p><i>"In the end, every human is a writer"</i></p>
+    <p><b><i>"Santai dulu ngak sih ? "</i></b></p>
 </div>
 
 
